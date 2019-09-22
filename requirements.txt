@@ -1,0 +1,7 @@
+requests
+boto3
+sphinx
+sphinx-rtd-theme
+elasticsearch
+elasticsearch_dsl
+moto
